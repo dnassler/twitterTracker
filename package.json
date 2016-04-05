@@ -1,0 +1,15 @@
+{
+  "name": "twitterStringTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Derek Nassler",
+  "license": "ISC",
+  "dependencies": {
+    "node-tweet-stream": "^1.10.0",
+    "socket.io": "^1.4.5"
+  }
+}
